@@ -12,3 +12,17 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+
+.css-ef7n63{
+  fill-opacity: 0.25;
+  fill: red;
+  stroke: transparent;
+  cursor: pointer;
+
+}
